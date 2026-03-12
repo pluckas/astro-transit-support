@@ -14,4 +14,4 @@ This application has made use of the SIMBAD database, operated at CDS, Strasbour
 
 For questions or support, contact:
 
-astrotransit.help@gmail.com
+astrotransit.support@icloud.com
