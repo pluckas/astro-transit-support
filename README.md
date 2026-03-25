@@ -2,7 +2,9 @@
 
 Astro Transit is a simple application for calculating meridian transit times, transit altitude, and target visibility for astronomical objects from any observing location.
 
-Targets can be resolved automatically using the SIMBAD astronomical database or entered manually using coordinates.
+Targets can be resolved automatically using the SIMBAD astronomical database or entered manually using coordinates. 
+
+A multi-target interactive visibility curve feature shows how a target’s altitude changes through the night, helping observers visualise the best time to observe consecutive targets.
 
 The application also provides sunset, nautical twilight, sunrise, and moon illumination information for the selected date.
 
