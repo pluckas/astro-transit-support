@@ -8,6 +8,9 @@ A multi-target interactive visibility curve feature shows how a target’s altit
 
 The application also provides sunset, nautical twilight, sunrise, and moon illumination information for the selected date.
 
+## Disclaimer
+Calculations are provided for general planning purposes only and may not be exact. Users should verify critical information independently.
+
 ## Data source
 
 This application has made use of the SIMBAD database, operated at CDS, Strasbourg, France.
