@@ -1,6 +1,6 @@
 # Astro Transit
 
-Astro Transit is a simple application for calculating meridian transit times, transit altitude, and target visibility for astronomical objects from any observing location.
+Astro Transit is a simple iOS application for calculating meridian transit times, transit altitude, and target visibility for astronomical objects from any observing location.
 
 Targets can be resolved automatically using the SIMBAD astronomical database or entered manually using coordinates. 
 
